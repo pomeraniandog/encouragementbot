@@ -1,2 +1,2 @@
-*ENCOURAGEMENT BOT*
-to help students of any age to receive encouragements when needed
+# *ENCOURAGEMENT BOT*
+A bot that gives encouragements to all students who require them
